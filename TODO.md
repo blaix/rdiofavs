@@ -1,1 +1,5 @@
-- [ ] Add TODOs
+- [x] Add TODOs
+- [ ] Find options for rdio api clients
+- [ ] Evaluate options
+- [ ] Decide on language, library, and basic approach
+- [ ] add more TODOs
